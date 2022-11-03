@@ -130,6 +130,8 @@ section {
 /* hero-section start here */
 #hero-sec {
   background: #f7f7f7;
+  position: sticky;
+  top: 0;
 }
 
 .hero-container {
