@@ -130,8 +130,6 @@ section {
 /* hero-section start here */
 #hero-sec {
   background: #f7f7f7;
-  position: sticky;
-  top: 0;
 }
 
 .hero-container {
@@ -313,7 +311,6 @@ section {
     position: absolute;
     top: 30px;
     width: 100%;
-    height: 100vh;
     overflow: hidden;
   }
 
