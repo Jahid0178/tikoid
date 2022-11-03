@@ -119,6 +119,32 @@ section {
 
 #package-sec {
   text-align: center;
+  background-color: #f3124f;
+  color: #fff;
+}
+
+.input-sec form {
+  display: flex;
+  justify-content: center;
+}
+
+.input-sec form input[type="text"] {
+  padding: 0.5rem 0.5rem;
+  font-size: 1rem;
+  outline: none;
+  border: 1px solid #fff;
+  border-radius: 0.3rem 0 0 0.3rem;
+}
+
+.input-sec form input[type="submit"] {
+  padding: 0.5rem 0.5rem;
+  font-size: 1rem;
+  outline: none;
+  border: 1px solid #2847ff;
+  border-radius: 0 0.3rem 0.3rem 0;
+  background: #2847ff;
+  color: #fff;
+  cursor: pointer;
 }
 
 /* Package section end here */
