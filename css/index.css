@@ -104,6 +104,11 @@ section {
   font-weight: bold;
 }
 
+.hero-img img {
+  width: auto;
+  height: 650px;
+}
+
 /* hero-section end here */
 
 /* Package section start here */
